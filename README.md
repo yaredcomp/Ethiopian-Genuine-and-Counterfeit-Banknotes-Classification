@@ -1,4 +1,4 @@
-# Counterfeit Ethiopian Banknote Classification
+# Ethiopian Genuine and Counterfeit Banknote Classification
 
 A master's thesis research project for detecting counterfeit Ethiopian banknotes (100 and 200 ETB) using deep learning and TensorFlow Lite models.
 
