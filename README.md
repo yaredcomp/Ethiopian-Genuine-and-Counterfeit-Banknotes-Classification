@@ -44,15 +44,10 @@ Users can select their preferred TensorFlow Lite model and upload banknote image
 ![Results Display](screenshot/3.png)
 The classification results showing the predicted class (Genuine or Counterfeit) with confidence scores.
 
-### 4. Detailed Prediction Analysis
-
 ![Detailed Analysis](screenshot/4.png)
 Detailed view of the prediction probabilities for each class.
 
-### 5. Model Performance Metrics
-
 ![Performance Metrics](screenshot/5.png)
-Confusion matrix and accuracy metrics showing the model's classification performance.
 
 ## Requirements
 
